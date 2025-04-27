@@ -9,7 +9,7 @@ GPIO.setmode(GPIO.BCM)
 GPIO.setup(channel, GPIO.IN)
 
 from_email_addr = "2196684138@qq.com"
-from_email_pass = "1234567890"
+from_email_pass = "eyoqjgiqyjozebgj"
 to_email_addr = "2196684138@qq.com"
 
 
